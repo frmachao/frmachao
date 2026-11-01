@@ -1,18 +1,21 @@
-# Hi there 👋
+# Hi, I'm Machao 👋
 
-我是 frmachao，记录开发实践与技术学习。
+**Web3 & AI Application Full-Stack Engineer**
 
-## Languages and Tools
+I’m a full-stack engineer with 8+ years of web development experience, building products across frontend, backend, databases, smart contracts, and AI integrations.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-TS-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+- At **ShieldLayer**, I owned end-to-end development of DeFi modules, spanning web apps, APIs, PostgreSQL, smart contracts, and EVM/BNB Chain integrations.
+- At **ArcBlock**, I contributed to Web3 platform and ecosystem products, including Blocklet Store and developer tools.
 
-- 前端：JavaScript、TypeScript、React
-- 后端：Node.js、MongoDB
+### Selected Projects
 
-## Writing
+- **Polymarket Smart Money & Copy Trading** — Built wallet discovery and analysis, plus an independent copy-trading service with real trade execution.
+- **DeepSeek + MT5 Bridge** — Integrated DeepSeek APIs with MetaTrader 5 to connect model services with automated trading workflows.
 
-[博客文章与阅读笔记](https://github.com/frmachao/frmachao/issues)
+### Tech
+
+React · Vue · TypeScript · Node.js · NestJS · Python · FastAPI · PostgreSQL · EVM · BNB Smart Chain
+
+### Contact
+
+[Email](mailto:frmachao@126.com) · [Website](https://www.frmachao.top) · [Writing](https://github.com/frmachao/frmachao/issues)
